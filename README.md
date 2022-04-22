@@ -1,2 +1,2 @@
 # Lantern
-Throughput prediction for deep learning inference jobs on heterogeneous FPGA clusters.
+Lantency prediction and throughput optimization for deep learning inference jobs on heterogeneous FPGA clusters.
